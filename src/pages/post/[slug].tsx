@@ -22,6 +22,8 @@ interface Post {
   };
 }
 
+//test gpg
+
 interface PostProps {
   post: Post;
 }
